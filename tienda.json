@@ -2,6 +2,24 @@
   "formato": 1,
   "programas": [
     {
+      "id": "creador-de-stickers-app-del-movil",
+      "nombre": "Creador de stickers: app del móvil",
+      "resumen": "La app del móvil que pasa a WhatsApp los packs hechos con el Creador de stickers.",
+      "descripcion": "Instálala en tu Android y abre en ella los packs que crees en el PC con el Creador de stickers: los añade a WhatsApp.",
+      "novedades": "",
+      "version": "1.0",
+      "publicado": "2026-11-18T21:25:49.745041Z",
+      "tamano": 46373,
+      "sha256": "175e99554c0a84260cf48230116a57f98308764efee0225036e0445170cf8c53",
+      "archivo": "https://github.com/FutureKiddo/cristal-tienda/releases/download/creador-de-stickers-app-del-movil%401.0/Stickers-app-del-movil.apk",
+      "icono": "https://github.com/FutureKiddo/cristal-tienda/releases/download/creador-de-stickers-app-del-movil%401.0/icono-fc6651af.png",
+      "capturas": [],
+      "tipo": "android",
+      "argumentos": "",
+      "registro": "",
+      "abrir": ""
+    },
+    {
       "id": "enfoque",
       "nombre": "Enfoque",
       "resumen": "Pomodoro que bloquea las webs que te distraen. Cada intento de entrar suma minutos a la sesión.",
