@@ -2,6 +2,24 @@
   "formato": 1,
   "programas": [
     {
+      "id": "enfoque",
+      "nombre": "Enfoque",
+      "resumen": "Pomodoro que bloquea las webs que te distraen. Cada intento de entrar suma minutos a la sesión.",
+      "descripcion": "Para Brave, Chrome, Edge u Opera. Elige qué webs te distraen (YouTube, Instagram, TikTok… vienen puestas) y durante la sesión salen tapadas con un cristal.",
+      "novedades": "",
+      "version": "1.0.0",
+      "publicado": "2026-11-18T21:25:45.515298Z",
+      "tamano": 46854,
+      "sha256": "79baf4e4e6805101cd3486bb30b08c1132271141514b5d9dce5eeeb41e4bd404",
+      "archivo": "https://github.com/FutureKiddo/cristal-tienda/releases/download/enfoque%401.0.0/Enfoque-1.0.0.zip",
+      "icono": "https://github.com/FutureKiddo/cristal-tienda/releases/download/enfoque%401.0.0/icono-c9e7d034.png",
+      "capturas": [],
+      "tipo": "extension",
+      "argumentos": "",
+      "registro": "",
+      "abrir": ""
+    },
+    {
       "id": "lucero-para-android",
       "nombre": "Lucero para Android",
       "resumen": "Lucero en tu móvil: horario, tareas, exámenes y Pomodoro con alarma.",
