@@ -2,6 +2,22 @@
   "formato": 1,
   "programas": [
     {
+      "id": "creador-de-stickers",
+      "nombre": "Creador de stickers",
+      "resumen": "Crea packs de stickers para WhatsApp, fijos o animados, desde PNG, JPG y GIF, y pásalos al móvil Android.",
+      "descripcion": "",
+      "version": "1.0.0",
+      "publicado": "2026-11-18T07:37:27.6419236Z",
+      "tamano": 112919816,
+      "sha256": "f1a4d19734c16c6f76cd197defabab6acee32365645690f56b1ca9474f450168",
+      "archivo": "https://github.com/FutureKiddo/cristal-tienda/releases/download/creador-de-stickers%401.0.0/Instalar-Creador-de-stickers-1.0.0.exe",
+      "icono": "https://github.com/FutureKiddo/cristal-tienda/releases/download/creador-de-stickers%401.0.0/icono.png",
+      "tipo": "instalador",
+      "argumentos": "",
+      "registro": "",
+      "abrir": ""
+    },
+    {
       "id": "conversor",
       "nombre": "Conversor",
       "resumen": "Vídeo, audio e imágenes a cualquier formato, y quitar fondos con IA.",
