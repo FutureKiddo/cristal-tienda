@@ -1,4 +1,21 @@
 {
   "formato": 1,
-  "programas": []
+  "programas": [
+    {
+      "id": "conversor",
+      "nombre": "Conversor",
+      "resumen": "Vídeo, audio e imágenes a cualquier formato, y quitar fondos con IA.",
+      "descripcion": "MP4 a MP3, MKV, WebM, GIF… con la gráfica si la hay. PNG, JPG, WebP, HEIC e ICO. Quita el fondo de una foto con IA y retócalo a mano con pincel, varita y bordes. Para vídeo y audio usa FFmpeg: si falta, el Conversor lo instala con un botón.",
+      "version": "1.2.0",
+      "publicado": "2026-11-18T07:37:17.3557657Z",
+      "tamano": 153574432,
+      "sha256": "86a95bf58e3c9f3ba62bc3bd0bd4d81b53f48f1831d81d42959175118e4aec04",
+      "archivo": "https://github.com/FutureKiddo/cristal-tienda/releases/download/conversor%401.2.0/Instalar-Conversor-1.2.0.exe",
+      "icono": "https://github.com/FutureKiddo/cristal-tienda/releases/download/conversor%401.2.0/icono.png",
+      "tipo": "instalador",
+      "argumentos": "",
+      "registro": "",
+      "abrir": ""
+    }
+  ]
 }
