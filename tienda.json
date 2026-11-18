@@ -2,6 +2,27 @@
   "formato": 1,
   "programas": [
     {
+      "id": "lucero",
+      "nombre": "Lucero",
+      "resumen": "Horario, tareas, exámenes y Pomodoro, en el móvil y en el PC.",
+      "descripcion": "Tu horario de clases, tareas, exámenes y hábitos en un sitio, con Pomodoro, apuntes y repasos. Se sincroniza con Lucero para Android.",
+      "novedades": "",
+      "version": "1.18.0",
+      "publicado": "2026-11-18T21:25:32.1334811Z",
+      "tamano": 16930073,
+      "sha256": "b82a06410f2cdca4fba8cf998dcac6a1d0ba88597dcf139371892921044c2308",
+      "archivo": "https://github.com/FutureKiddo/cristal-tienda/releases/download/lucero%401.18.0/Lucero-1.18.0-Instalador.exe",
+      "icono": "https://github.com/FutureKiddo/cristal-tienda/releases/download/lucero%401.18.0/icono-2dd3bedb.png",
+      "capturas": [
+        "https://github.com/FutureKiddo/cristal-tienda/releases/download/lucero%401.18.0/captura-87a347ee.jpg",
+        "https://github.com/FutureKiddo/cristal-tienda/releases/download/lucero%401.18.0/captura-1fa235d1.jpg"
+      ],
+      "tipo": "instalador",
+      "argumentos": "",
+      "registro": "",
+      "abrir": ""
+    },
+    {
       "id": "cristal",
       "nombre": "Cristal",
       "resumen": "Avisos del móvil, música a lo grande y widgets, en cristal.",
