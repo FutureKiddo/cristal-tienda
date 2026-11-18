@@ -2,6 +2,27 @@
   "formato": 1,
   "programas": [
     {
+      "id": "lucero-para-android",
+      "nombre": "Lucero para Android",
+      "resumen": "Lucero en tu móvil: horario, tareas, exámenes y Pomodoro con alarma.",
+      "descripcion": "La misma Lucero del PC, en el móvil, con avisos y alarma del Pomodoro aunque el móvil esté en silencio. Se sincroniza con Lucero para Windows.",
+      "novedades": "",
+      "version": "1.18.0",
+      "publicado": "2026-11-18T21:25:41.4232028Z",
+      "tamano": 34440286,
+      "sha256": "c762979b3b7675195ec31189e696f8da5ca259a7ce503156827797b50caae6eb",
+      "archivo": "https://github.com/FutureKiddo/cristal-tienda/releases/download/lucero-para-android%401.18.0/Lucero-1.18.0.apk",
+      "icono": "",
+      "capturas": [
+        "https://github.com/FutureKiddo/cristal-tienda/releases/download/lucero-para-android%401.18.0/captura-87a347ee.jpg",
+        "https://github.com/FutureKiddo/cristal-tienda/releases/download/lucero-para-android%401.18.0/captura-1fa235d1.jpg"
+      ],
+      "tipo": "android",
+      "argumentos": "",
+      "registro": "",
+      "abrir": ""
+    },
+    {
       "id": "lucero",
       "nombre": "Lucero",
       "resumen": "Horario, tareas, exámenes y Pomodoro, en el móvil y en el PC.",
