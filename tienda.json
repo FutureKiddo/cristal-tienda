@@ -2,6 +2,22 @@
   "formato": 1,
   "programas": [
     {
+      "id": "generador-de-contrasenas",
+      "nombre": "Generador de contraseñas",
+      "resumen": "Convierte una frase en una contraseña segura con una máquina de bolas en pixel art.",
+      "descripcion": "Escribe una palabra, gira la manivela y abre la cápsula: cuanto más rara, más fuerte la contraseña. Historial, favoritos cifrados en tu PC, ruleta para asignarlas a tus cuentas y exportación a KeePass (.kdbx).",
+      "version": "2.0",
+      "publicado": "2026-11-18T08:23:09.4404885Z",
+      "tamano": 28716293,
+      "sha256": "6192ce9dc381752af5f8a191539ecdef1978947ad3fe14d0af56aaac5024953b",
+      "archivo": "https://github.com/FutureKiddo/cristal-tienda/releases/download/generador-de-contrasenas%402.0/GeneradorContrasenas.exe",
+      "icono": "https://github.com/FutureKiddo/cristal-tienda/releases/download/generador-de-contrasenas%402.0/icono.png",
+      "tipo": "programa",
+      "argumentos": "",
+      "registro": "",
+      "abrir": ""
+    },
+    {
       "id": "creador-de-stickers",
       "nombre": "Creador de stickers",
       "resumen": "Crea packs de stickers para WhatsApp, fijos o animados, desde PNG, JPG y GIF, y pásalos al móvil Android.",
