@@ -1,6 +1,6 @@
 {
   "formato": 1,
-  "revision": 1,
+  "revision": 2,
   "programas": [
     {
       "id": "creador-de-stickers-app-del-movil",
@@ -159,6 +159,60 @@
       "tipo": "instalador",
       "argumentos": "",
       "registro": "",
+      "abrir": ""
+    },
+    {
+      "id": "filee",
+      "nombre": "Filee",
+      "resumen": "Convierte archivos arrastrándolos: imágenes, PDF, Office, vídeo, audio y más.",
+      "descripcion": "Mantén pulsada una tecla, arrastra los archivos y suéltalos sobre el formato que quieras en un menú circular. Funciona sin internet. Hecho por KnifeLemon, de código abierto (licencia MIT); se descarga de su página oficial en GitHub.",
+      "novedades": "",
+      "version": "2.5.0",
+      "publicado": "2026-11-26T01:08:13.579695Z",
+      "tamano": 149573856,
+      "sha256": "08d7f5519f32e3d6635312745164d4cb18836010129108ce1a65e55bd7c781a5",
+      "archivo": "https://github.com/KnifeLemon/Filee/releases/download/v2.5.0/Filee-2.5.0-win-Setup.exe",
+      "icono": "https://github.com/FutureKiddo/cristal-tienda/releases/download/filee%402.5.0/icono-1847d1df.png",
+      "capturas": [],
+      "tipo": "instalador",
+      "argumentos": "",
+      "registro": "Filee",
+      "abrir": ""
+    },
+    {
+      "id": "roomy",
+      "nombre": "Roomy",
+      "resumen": "Limpia el PC: cachés, restos de Windows Update y temporales, explicando cada cosa.",
+      "descripcion": "Busca la basura conocida del disco y te explica cada categoría antes de borrar nada; la quitas con un clic. Hecho por krezio, de código abierto (licencia MIT); se descarga de su página oficial en GitHub.",
+      "novedades": "",
+      "version": "0.1.5",
+      "publicado": "2026-11-26T01:08:13.579695Z",
+      "tamano": 71287512,
+      "sha256": "1665da815ca702bbbd246d3a0d7b8486f46b0290f7c0a146e79a1de8eb1f2fde",
+      "archivo": "https://github.com/krezio/roomy/releases/download/v0.1.5/Roomy-Setup.exe",
+      "icono": "https://github.com/FutureKiddo/cristal-tienda/releases/download/roomy%400.1.5/icono-7de0dc96.png",
+      "capturas": [],
+      "tipo": "instalador",
+      "argumentos": "",
+      "registro": "Roomy",
+      "abrir": ""
+    },
+    {
+      "id": "screenforge",
+      "nombre": "Screenforge",
+      "resumen": "Graba la pantalla con un zoom automático que sigue a tu cursor, sin marca de agua.",
+      "descripcion": "Grabador de pantalla gratis que acerca la imagen y sigue al ratón por sí solo, para vídeos pulidos. Sin suscripciones ni marca de agua. Hecho por Mohib Arshi, de código abierto (licencia AGPL-3.0); se descarga de su web oficial.",
+      "novedades": "",
+      "version": "0.10.0",
+      "publicado": "2026-11-26T01:08:13.579695Z",
+      "tamano": 273148928,
+      "sha256": "e615daa41730f8b7a9aba3942e1cdfd27e235e1b8bc0df7be9be8c99c211f22f",
+      "archivo": "https://download.screenforge.co/stable/win-v0.10.0/ScreenforgeSetup.exe",
+      "icono": "https://github.com/FutureKiddo/cristal-tienda/releases/download/screenforge%400.10.0/icono-23e4ad71.png",
+      "capturas": [],
+      "tipo": "instalador",
+      "argumentos": "",
+      "registro": "Screenforge",
       "abrir": ""
     }
   ]
